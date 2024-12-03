@@ -1,4 +1,4 @@
-public class ArrayLinearseach {
+public class a_02_ArrayLinearseach {
     // Linear Search
     public static int linearSearch(int numbers[], int key) {
         for (int i = 0; i < numbers.length; i++) {

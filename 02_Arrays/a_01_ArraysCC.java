@@ -1,4 +1,4 @@
-public class ArraysCC {
+public class a_01_ArraysCC {
     public static void upadate(int marks[]) {
         for (int i = 0; i < marks.length; i++) {
             marks[i] = marks[i] + 1;
