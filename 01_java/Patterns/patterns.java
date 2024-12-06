@@ -212,16 +212,16 @@ public class patterns {
     }
 
     public static void main(String args[]) {
-        hollowRectangle(4, 5);
-        inverted_rotated_halfPyramid(4);
+        // hollowRectangle(4, 5);
+        // inverted_rotated_halfPyramid(4);
         inverted_halfPyramid_withNumbers(5);
-        floyds_triangle(5);
-        zero_one_triangle(5);
-        butterfly(4);
-        solid_rhombus(5);
-        hollow_rhombus(5);
-        diamond(4);
-        number_pyramid(5);
-        palindromic_pattern_withNumbers(5);
+        // floyds_triangle(5);
+        // zero_one_triangle(5);
+        // butterfly(4);
+        // solid_rhombus(5);
+        // hollow_rhombus(5);
+        // diamond(4);
+        // number_pyramid(5);
+        // palindromic_pattern_withNumbers(5);
     }
 }
